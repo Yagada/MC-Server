@@ -1,0 +1,39 @@
+no_permission: '&cI''m sorry, but you do not have permission to perform this command.
+  Please contact the server administrators if you believe that this is in error.'
+value_too_long: '&c[TAB] Error! %type% cannot be longer than 16 characters! (You attempted
+  to use %length% characters). If you with to completely remove the limit, enable
+  unlimited-nametag-prefix-suffix-mode in config.'
+unlimited_nametag_mode_not_enabled: '&c[TAB] Warning! To make this feature work, you
+  need to enable unlimited-nametag-prefix-suffix-mode in config !'
+data_removed: '&3[TAB] All data has been successfully removed from %category% &e%value%'
+player_not_found: '&4[TAB] Player not found !'
+reloaded: '&3[TAB] Reloaded'
+value_assigned: '&3[TAB] %type% ''&r%value%&r&3'' has been successfully assigned to
+  %category% &e%unit%'
+value_removed: '&3[TAB] %type% has been successfully removed from %category% &e%unit%'
+help_menu:
+- '&3/tab reload &7- reloads plugin and config'
+- '&3/tab &9group&3/&9player &3<name> &9tabprefix &3<value...>'
+- '&3/tab &9group&3/&9player &3<name> &9tagprefix &3<value...>'
+- '&3/tab &9group&3/&9player &3<name> &9tabsuffix &3<value...>'
+- '&3/tab &9group&3/&9player &3<name> &9tagsuffix &3<value...>'
+- '&3/tab &9group&3/&9player &3<name> &9abovename &3<value...>'
+- '&3/tab &9group&3/&9player &3<name> &9belowname &3<value...>'
+- '&3/tab &9group&3/&9player &3<name> &9customtabname &3<value...>'
+- '&3/tab &9group&3/&9player &3<name> &9customtagname &3<value...>'
+- '&4/tab group/player <name> remove - clears all data about player/group'
+- '&3/tab debug [player] &7- displays debug information about you [about requested
+  player]'
+debug_basic:
+- '&3[TAB]&7 &m>-------------------------------<'
+- '&3[TAB] &6PlaceholderAPI: &a%papi%'
+- '&3[TAB] &6- Relational placeholders: &a%papi-rel%'
+- '&3[TAB] &6Found Permission system: &a%permplugin%'
+- '&3[TAB]&7 &m>-------------------------------<'
+debug_extra:
+- '&3[TAB] &ePlayer: &a%name%'
+- '&3[TAB] &eFull permission group list: &a%groups%'
+- '&3[TAB] &eMain group according to config: &a%group%'
+- '&3[TAB]&7 &m>-------------------------------<'
+no_perm: '&cI''m sorry, but you do not have permission to perform this command. Please
+  contact the server administrators if you believe that this is in error.'

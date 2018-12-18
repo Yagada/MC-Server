@@ -1,0 +1,28 @@
+lastAccountName: Phoney_Bologna
+timestamps:
+  login: 1541467310798
+  lastteleport: 1541131745295
+  logout: 1541467333087
+ipAddress: 73.73.33.24
+lastlocation:
+  world: World
+  x: 1156.4041251582626
+  y: 69.0
+  z: 533.1374922535174
+  yaw: 70.14946
+  pitch: 6.5999327
+homes:
+  home:
+    world: World
+    x: 1060.4559620755372
+    y: 69.0
+    z: 536.4482460971002
+    yaw: -178.935
+    pitch: -3.7500834
+logoutlocation:
+  world: World
+  x: 1061.4563192669018
+  y: 71.26554500835007
+  z: 536.8113911613216
+  yaw: -189.57622
+  pitch: 9.44967

@@ -1,0 +1,8 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2018-11-21 03:40:10 -0500"
+    },
+    "done": false
+  }
+}

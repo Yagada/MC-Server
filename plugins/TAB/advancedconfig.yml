@@ -1,0 +1,10 @@
+#players will only see in tablist those who are in the same world
+per-world-playerlist: false
+
+#allow players with tab.bypass permission to see every player in tablist even if the setting above is enabled
+allow-pwp-bypass-permission: false
+
+#even if per-world-playerlist is enabled, people in these worlds will see everyone on server in tablist
+ignore-pwp-in-worlds:
+ - ignoredworld
+ - spawn

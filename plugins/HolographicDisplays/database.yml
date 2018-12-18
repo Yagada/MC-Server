@@ -1,0 +1,44 @@
+totreetop:
+  location: World, 713.677, 68.533, -13.975
+  lines:
+  - '&2 Top of Tree Access'
+  - Magically go to the top of the tree by standing here
+totreebottom:
+  location: World, 716.414, 122.005, -6.972
+  lines:
+  - '&2To the Bottom'
+  - Simply jump down, no fear of fall damage!
+toshop:
+  location: World, 715.198, 67.237, -55.789
+  lines:
+  - '&cShopping District'
+  - Purchase and Sell items through here
+votingshop:
+  location: World, 710.890, 67.606, -47.764
+  lines:
+  - '&6Voting and Donor Chests'
+  - Use your keys here
+iceportal:
+  location: World, 772.265, 67.629, -45.213
+  lines:
+  - '&3Coming Soon'
+fireportal:
+  location: World, 743.008, 81.110, 47.600
+  lines:
+  - '&kFire Portal Coming Soon'
+hangingportal:
+  location: World, 694.542, 117.093, -21.787
+  lines:
+  - '&7Coming Soon'
+airballoonportal:
+  location: World, 701.554, 120.626, 8.774
+  lines:
+  - '&5Coming Soon'
+cloudportal:
+  location: World, 723.215, 129.257, 2.824
+  lines:
+  - Coming Soon
+birdportal:
+  location: World, 730.526, 137.869, -29.846
+  lines:
+  - '&6Coming Soon'

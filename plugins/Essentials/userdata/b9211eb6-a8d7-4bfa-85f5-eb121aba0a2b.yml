@@ -1,0 +1,29 @@
+lastAccountName: zpm346
+timestamps:
+  login: 1544396140232
+  logout: 1544403657447
+  lastteleport: 1543277320635
+ipAddress: 71.194.172.142
+afk: false
+logoutlocation:
+  world: World
+  x: 2690.8086815626766
+  y: 129.8376350140187
+  z: -336.32210358829684
+  yaw: 249.92163
+  pitch: 30.149849
+lastlocation:
+  world: World
+  x: 708.9930195118487
+  y: 87.60593185127739
+  z: -47.88303649673863
+  yaw: 121.50035
+  pitch: 29.400015
+homes:
+  home:
+    world: World
+    x: 2698.947154927213
+    y: 65.0
+    z: -399.23565707949336
+    yaw: -46.206055
+    pitch: 9.150046

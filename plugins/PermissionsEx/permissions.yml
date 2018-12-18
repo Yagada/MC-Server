@@ -1,0 +1,100 @@
+groups:
+  Member:
+    permissions:
+    - chatex.allowchat
+    - modifyworld.*
+    - essentials.rules
+    - essentials.help
+    - essentials.pay
+    - essentials.balance
+    - essentials.tell
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.who
+    - essentials.list
+    - essentials.msg
+    - essentials.warp.list
+    - essentials.warp
+    - essentials.motd
+    - essentials.spawn
+    - essentials.home
+    - essentials.tpa
+    - essentials.tpahere
+    - essentials.tpaccept
+    - essentials.home
+    - essentials.sethome
+    - essentials.sethome
+    - wild.wildtp
+    options:
+      build: true
+      default: true
+      prefix: '&9[Member]&7 '
+  Mod:
+    permissions:
+    - essentials.tempban
+    - essentials.ban.notify
+    - essentials.banip
+    - essentials.clearinventory
+    - essentials.ext
+    - essentials.getpos
+    - essentials.helpop.recieve
+    - essentials.home.others
+    - essentials.invsee - essentials.jails
+    - essentials.kick
+    - essentials.kick.notify
+    - essentials.mute
+    - essentials.realname
+    - essentials.signs.create.*
+    - essentials.signs.break.*
+    - essentials.time
+    - essentials.protect.alerts
+    - essentials.protect.admin
+    - essentials.protect.ownerinfo
+    - essentials.togglejail
+    - essentials.top
+    - essentials.unban
+    - essentials.unbanip
+    - essentials.whois
+    - essentials.world
+    inheritance:
+    - Member
+    options:
+      build: true
+      prefix: '&5[Mod]&7 '
+  Admin:
+    permissions:
+    - essentials.gamemode
+    - essentials.tp
+    - essentials.ban
+    - essentials.god
+    - essentials.invsee
+    - wild.*
+    inheritance:
+    - Member
+    - Moderator
+    options:
+      build: true
+      prefix: '&4[Admin]&7 '
+  Owner:
+    permissions:
+    - '*'
+    inheritance:
+    - admin
+    options:
+      build: true
+      prefix: '&e[Owner]&7 '
+  Co-Owner:
+    permissions:
+    - '*'
+    inheritance:
+    - Admin
+    options:
+      build: true
+      prefix: '&d[Co-Owner]&7 '
+schema-version: 1
+users:
+  c45e7627-1047-41f4-9a17-5589c18e2377:
+    options:
+      name: Yagada
+    group:
+    - Owner	

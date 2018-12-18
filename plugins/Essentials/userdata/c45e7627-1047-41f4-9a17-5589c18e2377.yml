@@ -1,0 +1,30 @@
+lastAccountName: Yagada
+timestamps:
+  login: 1543197655914
+  lastteleport: 1543197667786
+  logout: 1543197805996
+ipAddress: 173.25.204.66
+lastlocation:
+  world: World
+  x: 709.1535006052005
+  y: 64.0
+  z: -48.63363388892869
+  yaw: -72.90017
+  pitch: 2.6999998
+afk: false
+logoutlocation:
+  world: World
+  x: 2712.9619425209235
+  y: 146.26049561717218
+  z: -337.1396979848204
+  yaw: -215.05081
+  pitch: 58.35041
+money: '70.0'
+homes:
+  shop:
+    world: World
+    x: 726.7754811210431
+    y: 34.63415683289154
+    z: -142.37242521580058
+    yaw: 257.95642
+    pitch: 14.251867
